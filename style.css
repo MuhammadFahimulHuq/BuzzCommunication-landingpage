@@ -107,8 +107,8 @@ body::-webkit-scrollbar-thumb {
   min-height: 100vh;
   display: block;
   z-index: 1;
-  background-color: black;
-  color: white;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   padding-top: 12.5rem;
   transition: 0.4s;
 }
@@ -118,7 +118,7 @@ body::-webkit-scrollbar-thumb {
   text-align: center;
   margin: 25px;
   text-decoration: none;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 1rem;
 }
 
